@@ -1,0 +1,100 @@
+@import "tailwindcss";
+
+/* Logo */
+.logo {
+  background-image: url("/assets/home/Subtract.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 48px;   /* adjust to figma */
+  height: 48px;
+}
+
+
+/* ---------- HOME ---------- */
+.bg-home-mobile {
+  background-image: url("/assets/home/background-home-mobile.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.bg-home-tablet {
+  background-image: url("/assets/home/background-home-tablet.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.bg-home-desktop {
+  background-image: url("/assets/home/background-home-desktop.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+/* ---------- DESTINATION ---------- */
+.bg-destination-mobile {
+  background-image: url("/assets/destination/background-destination-mobile.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.bg-destination-tablet {
+  background-image: url("/assets/destination/background-destination-tablet.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.bg-destination-desktop {
+  background-image: url("/assets/destination/background-destination-desktop.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+/* ---------- CREW ---------- */
+.bg-crew-mobile {
+  background-image: url("/assets/crew/background-crew-mobile.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.bg-crew-tablet {
+  background-image: url("/assets/crew/background-crew-tablet.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.bg-crew-desktop {
+  background-image: url("/assets/crew/background-crew-desktop.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+/* ---------- TECHNOLOGY ---------- */
+.bg-technology-mobile {
+  background-image: url("/assets/technology/background-technology-mobile.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.bg-technology-tablet {
+  background-image: url("/assets/technology/background-technology-tablet.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.bg-technology-desktop {
+  background-image: url("/assets/technology/background-technology-desktop.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
