@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
-import { Menu, X } from "lucide-react"; // npm install lucide-react
+import { Menu, X } from "lucide-react";
 
 const navLinks = [
   { id: "00", label: "Home", path: "/" },
@@ -17,7 +17,7 @@ export default function Navbar() {
     <header className="fixed top-0 left-0 w-full z-50 flex items-center justify-between px-6 py-4 lg:px-12">
       {/* Logo + Divider */}
       <div className="flex items-center bg-b gap-8 flex-grow">
-        {/* ✅ Logo from index.css */}
+        {/* Logo from index.css */}
         <div className="logo"></div>
 
         {/* Divider line (desktop only) */}
