@@ -57,4 +57,4 @@ I'd like to focus on building completely responsive projects.
 
 ## Author
 
-- Website - [Mariam Lawal](https://github.com/TVY0R)
+- Website - [[Mariam Lawal](https://github.com/TVY0R)]
