@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/TVY0R/space-tourism.git](https://github.com/TVY0R/space-tourism.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [[REPO LINK](https://github.com/TVY0R/space-tourism.git)](https://github.com/TVY0R/space-tourism.git)
+- Live Site URL: [[LIVE URL](https://space-tour1.netlify.app)](https://space-tour1.netlify.app)
 
 ## My process
 
@@ -57,4 +57,4 @@ I'd like to focus on building completely responsive projects.
 
 ## Author
 
-- Website - [Mariam Lawal](https://github.com/TVY0R.com)
+- Website - [Mariam Lawal](https://github.com/TVY0R)
