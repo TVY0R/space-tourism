@@ -28,9 +28,9 @@ Users should be able to:
 
 ![Crew Nav-Desktop view](<src/assets/crew desktop.png>)
 ![Home Nav-Mobile view](<src/assets/mobile home.png>)
-![Home Nav-Desktop view](<src/assets/desktop home.png)
-![Destination Nav-Desktop viewt](<src/assets/destination desktop.png)
-![Technology Nav-Desktop view](<src/assets/tech desk.png)
+![Home Nav-Desktop view](<src/assets/desktop home.png>)
+![Destination Nav-Desktop view](src/assets/destination%20desktop.png)
+![Technology Nav-Desktop view](<src/assets/tech desk.png>)
 
 ### Links
 
