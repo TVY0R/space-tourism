@@ -49,7 +49,7 @@ Users should be able to:
 ### What I learned
 
 I learnt to work with the new tailwind styling which uses just the @import "tailwindcss";
-in your .css and not the formal @tailwind base (Nothing was working till i figured this was the problem as my styling were not rendering).
+in your .css and not the former @tailwind base (Nothing was working till i figured this was the problem as my styling were not rendering).
 
 ### Continued development
 
